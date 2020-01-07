@@ -36,3 +36,7 @@
 ### Git权威指南视频教程
 #### 视频教程
 [Git权威指南视频教程](https://www.bilibili.com/video/av80501819)
+
+## 四、Latex
+#### 课件
+[Latex Talk2018](Latex/Latex_Talk2018.pdf)
