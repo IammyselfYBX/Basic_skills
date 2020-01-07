@@ -38,5 +38,7 @@
 [Git权威指南视频教程](https://www.bilibili.com/video/av80501819)
 
 ## 四、Latex
+#### 书籍
+[140分钟学会LaTex](Latex/140分钟学会LaTex.pdf)
 #### 课件
 [Latex Talk2018](Latex/Latex_Talk2018.pdf)
