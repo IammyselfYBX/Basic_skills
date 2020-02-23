@@ -1,0 +1,11 @@
+@startuml
+title 类图
+note “类图部分符号示意” as comment
+@enduml
+
+@startuml
+
+Bob -> Alice : Hello, how are you
+Alice -> Bob : Fine, thank you, and you?
+
+@enduml
